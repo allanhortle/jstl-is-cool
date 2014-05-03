@@ -13,10 +13,10 @@ codeurl: 'https://github.com/allanhortle/jstl-is-cool'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['doc', 'Documentation'],
-    ['tut', 'Tutorial'],
-    ['ref', 'Reference'],
-    ['dev', 'Developers'],
+    ['basic', 'The Basics'],
+    ['core', 'Core'],
+    ['tag', 'Custom Tags'],
+    ['hacks', 'Useful Hacks'],
     ['post', 'Posts']
 ]
 
