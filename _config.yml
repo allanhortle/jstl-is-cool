@@ -1,12 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'JSTL is cool.'
-subtitle: 'Nice Looking Documentation'
-
-# Enable/show navigation. There are there options:
-#   0 - always hide
-#   1 - always show
-#   2 - show only if posts are present
-navigation: 2
+title: 'JSTL is cool'
 
 # URL to source code, used in _includes/footer.html
 codeurl: 'https://github.com/allanhortle/jstl-is-cool'
@@ -15,6 +8,8 @@ codeurl: 'https://github.com/allanhortle/jstl-is-cool'
 sections: [
     ['basic', 'The Basics'],
     ['core', 'Core'],
+    ['fmt', 'Format'],
+    ['fn', 'Function'],
     ['tag', 'Custom Tags'],
     ['hacks', 'Useful Hacks'],
     ['post', 'Posts']

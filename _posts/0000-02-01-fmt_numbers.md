@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Numbers"
+category: fmt
+date: 2013-06-06 08:55:36
+order: 1
+---
+
+```jsp
+<fmt:formatDate type="both" value="${now}" />
+```
