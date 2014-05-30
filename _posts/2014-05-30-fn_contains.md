@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Function Contains
-subtitle: fn:contains(string, testString)
+subtitle: 'fn:contains(string, testString)'
 date: 2013-06-06 08:55:36 UTC
 order: 1
 ---
