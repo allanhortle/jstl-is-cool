@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Function Contains"
-subtitle: "fn:contains()"
+subtitle: "fn:contains"
 category: fn
-date: 2014-05-30
+date: 2013-06-06 08:55:36 UTC
 order: 1
 ---
 
