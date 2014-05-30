@@ -2,7 +2,7 @@
 layout: page
 title: "Function Contains"
 subtitle: "fn:contains"
-category: fn
+category: fmt
 date: 2013-06-06 08:55:36 UTC
 order: 1
 ---
