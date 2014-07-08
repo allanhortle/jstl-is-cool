@@ -72,12 +72,12 @@ p{
     letter-spacing: .6rem;
 }
 
-.navigation{
-    float:left;
-    width:20%;
-    height:100%;
-    padding:2rem;
-    box-sizing:border-box;
+.navigation {
+    float: left;
+    width: 20%;
+    height: 100%;
+    padding: 2rem 0;
+    box-sizing: border-box;
 }
 
 .content{
