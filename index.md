@@ -3,9 +3,9 @@ layout: default
 title: "Templates for Cool People"
 ---
 
-#Templates for Cool People"
+#Templates for Cool People
 
-JSTL is not complicated, it's documentation is. A quick Google search will give plenty of sites explaining the ins and outs of the language. But they all look like they were made pre 2001. JSTL is a useful and versatile templating language and it deserves some good looking documentation.
+JSTL is not complicated; it's documentation is. A quick Google search will give plenty of sites explaining the ins and outs of the language. But they all look like they were made pre 2001. JSTL is a useful and versatile templating language and it deserves some good looking documentation.
 
 
 ## Contributing
